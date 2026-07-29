@@ -38,4 +38,4 @@ git merge feature
 ## Author
 **Manjulakadari**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Manjulakadari123/git-practical
